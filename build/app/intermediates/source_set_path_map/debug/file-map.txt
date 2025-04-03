@@ -18,11 +18,11 @@ com.example.eventmaster.app-jetified-tracing-1.2.0-16 C:\Users\Suhani Gupta\.gra
 com.example.eventmaster.app-jetified-startup-runtime-1.1.1-17 C:\Users\Suhani Gupta\.gradle\caches\transforms-3\ba4003ceb04885cdf81ff05b2e84579b\transformed\jetified-startup-runtime-1.1.1\res
 com.example.eventmaster.app-lifecycle-viewmodel-2.7.0-18 C:\Users\Suhani Gupta\.gradle\caches\transforms-3\bd3739b040a659d6a9d9373f983d89f2\transformed\lifecycle-viewmodel-2.7.0\res
 com.example.eventmaster.app-jetified-window-1.2.0-19 C:\Users\Suhani Gupta\.gradle\caches\transforms-3\e732bc704775595a0e2d4349317be8ab\transformed\jetified-window-1.2.0\res
-com.example.eventmaster.app-debug-20 C:\Users\Suhani Gupta\AndroidStudioProjects\EventMaster\android\app\src\debug\res
-com.example.eventmaster.app-main-21 C:\Users\Suhani Gupta\AndroidStudioProjects\EventMaster\android\app\src\main\res
-com.example.eventmaster.app-pngs-22 C:\Users\Suhani Gupta\AndroidStudioProjects\EventMaster\build\app\generated\res\pngs\debug
-com.example.eventmaster.app-resValues-23 C:\Users\Suhani Gupta\AndroidStudioProjects\EventMaster\build\app\generated\res\resValues\debug
-com.example.eventmaster.app-rs-24 C:\Users\Suhani Gupta\AndroidStudioProjects\EventMaster\build\app\generated\res\rs\debug
-com.example.eventmaster.app-mergeDebugResources-25 C:\Users\Suhani Gupta\AndroidStudioProjects\EventMaster\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.example.eventmaster.app-mergeDebugResources-26 C:\Users\Suhani Gupta\AndroidStudioProjects\EventMaster\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.example.eventmaster.app-merged_res-27 C:\Users\Suhani Gupta\AndroidStudioProjects\EventMaster\build\app\intermediates\merged_res\debug
+com.example.eventmaster.app-debug-20 D:\AndroidStudioProjects\eventmaster\android\app\src\debug\res
+com.example.eventmaster.app-main-21 D:\AndroidStudioProjects\eventmaster\android\app\src\main\res
+com.example.eventmaster.app-pngs-22 D:\AndroidStudioProjects\eventmaster\build\app\generated\res\pngs\debug
+com.example.eventmaster.app-resValues-23 D:\AndroidStudioProjects\eventmaster\build\app\generated\res\resValues\debug
+com.example.eventmaster.app-rs-24 D:\AndroidStudioProjects\eventmaster\build\app\generated\res\rs\debug
+com.example.eventmaster.app-mergeDebugResources-25 D:\AndroidStudioProjects\eventmaster\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.eventmaster.app-mergeDebugResources-26 D:\AndroidStudioProjects\eventmaster\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.eventmaster.app-merged_res-27 D:\AndroidStudioProjects\eventmaster\build\app\intermediates\merged_res\debug
